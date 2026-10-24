@@ -312,6 +312,64 @@ margin-top: 10px;
    
 
 }
+.box5{
+    width: 1292px;
+    max-width: 1512;
+    height: 676px;
+    background-color: #211F54;
+    position: relative;
+    
+    top: 150px;
+    border-radius:14px;
+    margin: auto;
+}
+.image11{
+    width: 646px;
+    position: relative;
+   
+}
+.gapho{
+    margin-left: 750px;
+    font-size: 20px;
+    margin-top: -500px;
+    color: #FFFFFF;
+}
+.b1{
+    position: relative;
+    top: -10px;
+}
+.b3{
+    position: relative;
+    top: 20px;
+}
+.b4{
+     position: relative;
+    top: 30px;
+     padding: 15px;
+    width: 200px;
+    height: 50px;
+    border-radius: 14px;
+    color: #211F54;
+    border: none; 
+     
+}
+.ii{
+    position: relative;
+    left: 200px;
+    top: -20px;
+    font-size: 40px;
+}
+.b6{
+    position: relative;
+    left: 250px;
+    top: -70px;
+}
+.b7{
+    position: relative;
+    left: 250px;
+    top: -70px;
+
+}
 
 
 

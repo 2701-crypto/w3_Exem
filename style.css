@@ -173,6 +173,147 @@ margin-top: 10px;
     left: 15px;
     top: 35px;
 }
+.qwe8{
+   
+    max-width: 1512px;
+    height: 40px;
+   
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;  
+}
+.button1{
+    border-radius: 14px;
+    border: 10px solid #0075FF;
+    color: white;
+    background-color: #0075FF;
+    width: 200px;
+    height: 50px;
+}
+.button2{
+    border-radius: 14px;
+    color: #211F54;
+    border: none;
+    width: 200px;
+     height: 50px;
+   
+}
+.box4{
+    width: 1268px;
+    max-width: 1512px;
+    height: 672px;
+    margin: auto;
+}
+.bolo1{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+    position: relative;
+    top: 30px;
+  
+}
+.gapi1{
+    /* font-weight: 500; */
+    font-size: 50px;
+}
+.button3{
+    padding: 15px;
+    width: 200px;
+    height: 50px;
+    border-radius: 14px;
+    color: #211F54;
+    border: none;
+}
+.qismi1{
+    max-width: 1512px;
+    width: 388px;
+    height: 494px;
+    background-color: aliceblue;
+    position: relative;
+    left: 28px;
+    top: 55px;
+     border: 2px solid #EFF0F6;
+}
+.qismi1 img{
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+.qismi1 h1{
+    position: relative;
+    left: 90px;
+    top: 60px;
+
+}
+.qismi1 p{
+    text-align: center;
+    position: relative;
+    left: 5px;
+    top: 80px;
+   
+
+}
+.qismi2{
+    max-width: 1512px;
+    width: 388px;
+    height: 494px;
+    background-color: aliceblue;
+    position: relative;
+    left: 444px;
+    top: -442px;
+     border: 2px solid #EFF0F6;
+}
+.qismi2 img{
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+.qismi2 h1{
+    position: relative;
+    left: 90px;
+    top: 60px;
+
+}
+.qismi2 p{
+    text-align: center;
+    position: relative;
+    left: 5px;
+    top: 80px;
+   
+
+}
+.qismi3{
+    max-width: 1512px;
+    width: 388px;
+    height: 494px;
+    background-color: aliceblue;
+    position: relative;
+    left: 860px;
+    top: -938px;
+     border: 2px solid #EFF0F6;
+}
+.qismi3 img{
+    position: relative;
+    left: 90px;
+    top: 50px;
+}
+.qismi3 h1{
+    position: relative;
+    left: 90px;
+    top: 60px;
+
+}
+.qismi3 p{
+    text-align: center;
+    position: relative;
+    left: 5px;
+    top: 80px;
+   
+
+}
+
+
 
 
 

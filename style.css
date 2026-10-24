@@ -31,6 +31,63 @@ margin-top: 10px;
     border-color: #0075FF;
     background-color: #0075FF;
 }
+.box2 {
+    width: 1512px;
+    height: 600px;
+    background-color: aliceblue;
+}
+.qwe3 {
+    width: 800px;
+    margin-left: 100px;
+    position: relative;
+    top: 100px;
+    font-size: 30px;
+    color: #211F54;
+  
+}
+.qwe3 button{
+    margin-top: 5px;
+    font-size: 20px;
+    padding: 25px;
+    border-radius: 14px;
+    border: none;
+    background-color: #0075FF;
+    color: white;
+    position: relative;
+    top: 15px;
+}
+.qwe3 i{
+    margin-top: 5px;
+    position: absolute;
+    top: 250px;
+    font-size: 50px;
+    padding: 10px;
+}
+.qwe3 span{
+    margin-top: 5px;
+    position: absolute;
+    left: 270px;
+    font-size: medium;
+    top: 250px;
+    
+}
+.qwe3 .number{
+    position: absolute;
+    left: 270px;
+    top: 270px;
+    font-weight: 800;
+}
+.qwe4{
+   width: 612px;
+   height: 600px;
+   position: absolute;
+   left: 900px;
+   top: 55px;
+   background-image: url(./Group\ \(6\).png);
+   background-size: 100%;
+   
+}
+
 
 
 

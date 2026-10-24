@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: auto;
+}
+
+.box1{
+    width: 1520px;
+    height: 118;
+    max-width: 1520px;  
+}
+.qwe1{
+ width: 1000px;
+display: flex;
+justify-content: space-around;
+flex-direction: row;
+margin-left: 0px;
+align-items: center;
+margin-top: 10px;
+}
+.qwe2{
+    width: 300px;
+    display: flex;
+    margin-right: 100px;
+    margin-top: -33px;   
+}
+.qwe2 button{
+    border: 10px solid #0075FF;
+    border-radius: 14px;
+    color: white;
+    border-color: #0075FF;
+    background-color: #0075FF;
+}
+
+
+
+
+

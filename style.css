@@ -318,6 +318,7 @@ margin-top: 10px;
     height: 676px;
     background-color: #211F54;
     position: relative;
+    margin: auto;
     
     top: 150px;
     border-radius:14px;
@@ -349,8 +350,9 @@ margin-top: 10px;
     width: 200px;
     height: 50px;
     border-radius: 14px;
-    color: #211F54;
+    color: white;
     border: none; 
+    background-color: #0075FF;
      
 }
 .ii{
@@ -369,6 +371,68 @@ margin-top: 10px;
     left: 250px;
     top: -70px;
 
+}
+.qwer{
+    height: 200px;
+    display: flex;
+    margin: auto;
+    color: #DCDDEB;
+    position: relative;
+    top: 240px;
+    left: 100px;
+    font-size: larger;
+    margin: auto;
+}
+.box6{
+    width: 1292px;
+    max-width: 1512;
+    height: 680px;
+    position: relative;
+    margin: auto;
+    
+    top: 150px;
+    border-radius:14px;
+    margin: auto;
+}
+.qwe22{
+    position: relative;
+    left: 700px;
+    top: -600px;
+}
+.qwe22 p{
+  position: relative;
+  top: 20px;
+}
+.wer{
+    margin-top: 30px;
+}
+input{
+    padding: 20px;
+    border-radius: 50%;
+   
+    
+}
+.qwe23{
+    position: relative;
+    left: 900px;
+    top: -850px;
+}
+.wer1{
+    margin-top: 30px;
+}
+.button10
+{
+    position: relative;
+    left: -150px;
+    top: 20px;
+}
+.button10 button{
+  border-radius: 14px;
+    border: 10px solid #0075FF;
+    color: white;
+    background-color: #0075FF;
+    width: 200px;
+    height: 50px;
 }
 
 

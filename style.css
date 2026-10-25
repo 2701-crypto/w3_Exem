@@ -482,6 +482,157 @@ input{
     width: 200px;
     height: 50px;
 }
+.box8{
+    width: 1292px;
+    max-width: 1512;
+    height: 680px;
+    position: relative;
+    margin: auto;
+    background-color: aqua;
+    position: relative;
+    top: 300px;
+}
+.qwe27{
+    font-size: 30px;
+}
+.qwe28{
+    position: relative;
+    left: 800px;
+    top: -100px;
+}
+.qwe28 .qw2{
+    border-radius: 14px;
+    border: 10px solid #0075FF;
+    color: white;
+    background-color: #0075FF;
+    width: 200px;
+    height: 50px;
+}
+.qw1{
+     border-radius: 14px;
+   border: none;
+    color: #0075FF;
+    width: 200px;
+    height: 50px;
+}
+.qwe29{
+    position: relative;
+    left: 40px;
+    
+}
+.qr1{
+    width: 450px;
+    height: 324px;
+    background-color: white;
+    border-radius: 14px;
+    padding: 50px;
+    margin-left: 50px;
+    position: relative;
+    left: 50px;
+    top: -70px;
+    border-style: solid #EFF0F6;
+    position: relative;
+    left: -30px;
+
+}
+.qrr1{
+    
+    width: 500px;
+    height: 324px;
+    margin-left: -20px;
+    
+   
+}
+.pop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.kismi2{
+    position: relative;
+    left: 650px;
+    top: -795px;
+}
+footer {
+    padding: 100px 6% 70px;
+    font-family: Arial, sans-serif;
+    color: #211f54;
+    margin-top: -900px;
+}
+.footer-1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    padding-bottom: 70px;
+}
+.footer-2 {
+    width: 25%;
+}
+.footer-2 h3 {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.footer-2 h4 {
+    font-size: 14px;
+    margin-bottom: 22px;
+}
+.footer-2 h5 {
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+.footer-2 p {
+    color: #6e7191;
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+.footer-2 h2 {
+    color: #007bff;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.silka {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+.silka a {
+    width: 23px;
+    height: 23px;
+    background-color: #edf4ff;
+    border-radius: 6px;
+}
+.footer-2 button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 16px 28px;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 12px;
+    margin-top: 5px;
+}
+.footer-bottom {
+    border-top: 1px solid #eeeeee;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-bottom h3 {
+    font-size: 16px;
+}
+.footer-bottom h3 span {
+    color: #007bff;
+    font-size: 27px;
+}
+.footer-bottom p {
+    color: #6e7191;
+    font-size: 11px;
+}
+.footer-bottom a {
+    color: #007bff;
+}
 
 
 

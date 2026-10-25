@@ -434,7 +434,54 @@ input{
     width: 200px;
     height: 50px;
 }
-
+.box7{
+     width: 1292px;
+    max-width: 1512;
+    height: 676px;
+    
+   position: relative;
+   left: 20px;
+   top: 300px;
+   margin: auto;
+}
+.qwe24{
+    font-size: 27px;
+}
+.qwe24 h1{
+    position: relative;
+    top: 20px;
+}
+.qwe24 p{
+    position: relative;
+    top: 40px;
+}
+.qwe24 h6{
+    position: relative;
+    top: 60px;
+}
+.qwe25{
+    position: relative;
+    top: 80px;
+    
+}
+.qwe26{
+    position: relative;
+    left: 600px;
+    top: -400px;
+}
+.qwer25{
+    position: relative;
+    top: 120px;
+    left: 30px;
+}
+.qwer25 button{
+    border-radius: 14px;
+    border: 10px solid #0075FF;
+    color: white;
+    background-color: #0075FF;
+    width: 200px;
+    height: 50px;
+}
 
 
 
